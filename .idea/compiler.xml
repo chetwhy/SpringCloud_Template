@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-template" />
+        <module name="template-admin" />
+        <module name="template-auth" />
+        <module name="template-config" />
+        <module name="template-eureka" />
+        <module name="template-zipkin" />
+        <module name="template-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-template" target="1.8" />
+      <module name="template-admin" target="1.8" />
+      <module name="template-auth" target="1.8" />
+      <module name="template-config" target="1.8" />
+      <module name="template-eureka" target="1.8" />
+      <module name="template-zipkin" target="1.8" />
+      <module name="template-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-template" options="-parameters" />
+      <module name="template-admin" options="-parameters" />
+      <module name="template-auth" options="-parameters" />
+      <module name="template-config" options="-parameters" />
+      <module name="template-eureka" options="-parameters" />
+      <module name="template-zipkin" options="-parameters" />
+      <module name="template-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

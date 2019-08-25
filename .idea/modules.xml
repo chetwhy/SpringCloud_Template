@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud-template.iml" filepath="$PROJECT_DIR$/.idea/cloud-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-admin/template-admin.iml" filepath="$PROJECT_DIR$/template-admin/template-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-auth/template-auth.iml" filepath="$PROJECT_DIR$/template-auth/template-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-config/template-config.iml" filepath="$PROJECT_DIR$/template-config/template-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-eureka/template-eureka.iml" filepath="$PROJECT_DIR$/template-eureka/template-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-zipkin/template-zipkin.iml" filepath="$PROJECT_DIR$/template-zipkin/template-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-zuul/template-zuul.iml" filepath="$PROJECT_DIR$/template-zuul/template-zuul.iml" />
+    </modules>
+  </component>
+</project>
