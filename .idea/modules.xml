@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/cloud-template.iml" filepath="$PROJECT_DIR$/.idea/cloud-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-admin/template-admin.iml" filepath="$PROJECT_DIR$/template-admin/template-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-auth/template-auth.iml" filepath="$PROJECT_DIR$/template-auth/template-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-boot-admin/template-boot-admin.iml" filepath="$PROJECT_DIR$/template-boot-admin/template-boot-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-config/template-config.iml" filepath="$PROJECT_DIR$/template-config/template-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-eureka/template-eureka.iml" filepath="$PROJECT_DIR$/template-eureka/template-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-zipkin/template-zipkin.iml" filepath="$PROJECT_DIR$/template-zipkin/template-zipkin.iml" />
